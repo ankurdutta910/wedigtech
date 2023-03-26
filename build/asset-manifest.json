@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f5b36f9.css",
+    "main.js": "/static/js/main.463efe34.js",
+    "static/js/787.7937b685.chunk.js": "/static/js/787.7937b685.chunk.js",
+    "static/media/ott.jpg": "/static/media/ott.33e3087ccaa2a9aebf6e.jpg",
+    "static/media/poster.jpg": "/static/media/poster.c168aea43a4e231fa634.jpg",
+    "static/media/broucher.jpg": "/static/media/broucher.14ea7f883a3b39f9b191.jpg",
+    "static/media/bgmain.jpg": "/static/media/bgmain.b76b342d2c1cdcefe65e.jpg",
+    "static/media/static.jpg": "/static/media/static.2355a166a840fb4adb27.jpg",
+    "static/media/ecom.jpg": "/static/media/ecom.83d6f1538a9a249cc66a.jpg",
+    "static/media/social.jpg": "/static/media/social.4c5e670b1b44fe36795c.jpg",
+    "static/media/ecomapp.jpg": "/static/media/ecomapp.02b26e17535073086036.jpg",
+    "static/media/appdev.jpg": "/static/media/appdev.98bbc1fe4e0d2a258aa7.jpg",
+    "static/media/webdev.jpg": "/static/media/webdev.a5a0cb9ed5a285742b27.jpg",
+    "static/media/cwriting.jpg": "/static/media/cwriting.1effe969bbb67360c55b.jpg",
+    "static/media/customapp.jpg": "/static/media/customapp.920168482e029e09f30e.jpg",
+    "static/media/webdesign.jpg": "/static/media/webdesign.7a83d9aa54a3e5abe4d9.jpg",
+    "static/media/mulvendor.jpg": "/static/media/mulvendor.1e5e0ebffeadbc9ba616.jpg",
+    "static/media/graphicdesign.jpg": "/static/media/graphicdesign.da79da310d6d0202acf5.jpg",
+    "static/media/logo.jpg": "/static/media/logo.9ad41df1bcfaad6eb530.jpg",
+    "static/media/dynamic.jpg": "/static/media/dynamic.7a492eaf3dde000601f1.jpg",
+    "static/media/custom.jpg": "/static/media/custom.1e5e11d8f1c3c1d6b8c5.jpg",
+    "static/media/ddynamic.jpg": "/static/media/ddynamic.ccb8e2c125191b80135e.jpg",
+    "static/media/socialmedia.jpg": "/static/media/socialmedia.c8f6c6689e846df14713.jpg",
+    "static/media/dstatic.jpg": "/static/media/dstatic.4a9e68de0051abbc43c4.jpg",
+    "static/media/photography.jpg": "/static/media/photography.cab0a886a47bcabf3ab0.jpg",
+    "static/media/productdes.jpg": "/static/media/productdes.926d8ae8eca81487ec4d.jpg",
+    "static/media/article.jpg": "/static/media/article.5a409dd19273c246c1ba.jpg",
+    "static/media/dcustom.jpg": "/static/media/dcustom.d1c14f8bf2e2503709e4.jpg",
+    "static/media/casestudy.jpg": "/static/media/casestudy.b5b6bcc2d40a2648f936.jpg",
+    "static/media/decom.jpg": "/static/media/decom.7ce4a58bf9e4dbb98c8f.jpg",
+    "index.html": "/index.html",
+    "main.5f5b36f9.css.map": "/static/css/main.5f5b36f9.css.map",
+    "main.463efe34.js.map": "/static/js/main.463efe34.js.map",
+    "787.7937b685.chunk.js.map": "/static/js/787.7937b685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5b36f9.css",
+    "static/js/main.463efe34.js"
+  ]
+}
